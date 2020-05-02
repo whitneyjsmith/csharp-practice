@@ -1,3 +1,3 @@
 # csharp-practice
 
-Converting files and practicing C# in preperation of transferring schools 
+Converting files and practicing C# in preparation of transferring schools 
